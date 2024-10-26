@@ -1,4 +1,4 @@
-# 🍽️ NutriLens: Smart Food Recognition & Nutrition Tracking 📸
+# 🍽️ NutriSnap: Smart Food Recognition & Nutrition Tracking 📸
 
 
 
