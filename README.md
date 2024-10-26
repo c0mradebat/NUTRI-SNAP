@@ -71,4 +71,4 @@ LinkedIn - www.linkedin.com/in/sohamwankhade
 - [OpenCV](https://opencv.org/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [USDA Food Database](https://fdc.nal.usda.gov/)
-- [Kaggle food database] (https://www.kaggle.com/)
+- [Kaggle food database](https://www.kaggle.com/)
